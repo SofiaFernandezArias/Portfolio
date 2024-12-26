@@ -362,6 +362,29 @@ fa-gem{
      }
   }
 
+  .main .brief{
+    margin-top: 1rem;
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: #fff;
+    text-align: center;
+    padding: 0 60px;
+  }
+
+  .main .about-me{
+    background-color:#ff8177;
+    background-image: linear-gradient(to right, #DB0188 0%,#7201DC 0%, #b721ff 21%,  52%, #b721ff 50%, #21d4fd 100%);
+    background-size: 100%;
+    margin-bottom: 5rem;
+    margin-top: 5rem;
+    font-size: 5rem;
+    -webkit-background-clip: text;
+    -moz-background-clip: text ;
+    -webkit-text-fill-color: transparent ;
+    -moz-text-fill-color: transparent;
+    text-align: center;
+  }
+
   /* Services Section CSS*/
   .services {
     background: #141414;
@@ -596,6 +619,11 @@ fa-gem{
 
   .website__right {
     color:#fff;
+  }
+
+  .bi-instagram{
+    size: 5rem;
+    color: #dc01a5;
   }
 
 

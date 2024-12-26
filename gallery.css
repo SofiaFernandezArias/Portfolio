@@ -172,15 +172,15 @@
     
   }
   .life:nth-child(4) {
-    --art-url: url('3d art images/sonic.jpg');
+    --art-url: url('life images/statue\ life.jpg');
     
   }
   .life:nth-child(5) {
-    --art-url: url('3d art images/venus\ of\ wilendorf.jpg');
+    --art-url: url('life images/life\ man.jpg');
     
   }
   .life:nth-child(6) {
-    --art-url: url('3d art images/avatar gang.jpg');
+    --art-url: url('images/life\ drawing\ ballet.jpg');
     
   }
   .life:nth-child(7) {
