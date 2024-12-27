@@ -307,6 +307,15 @@ fa-gem{
     border-radius: 40px;
   }
 
+  .main .brief{
+    margin-top: 1rem;
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: #fff;
+    text-align: center;
+    padding: 0 250px;
+  }
+
   /*Mobile Responsive*/
   @media screen and (max-width: 768px){
     .main__container{
@@ -338,6 +347,15 @@ fa-gem{
         margin-top: 1rem;
         font-size: 1.5rem;
     }
+
+    .main .brief{
+      margin-top: 1rem;
+      font-size: 1.5rem;
+      font-weight: 700;
+      color: #fff;
+      text-align: center;
+      padding: 0 150px;
+    }
   }
 
   @media screen and (max-width: 480px){
@@ -360,23 +378,25 @@ fa-gem{
         padding: 12px, 36px;
         margin: 2.5rem 0;
      }
+
+     .main .brief{
+      margin-top: 1rem;
+      font-size: 1rem;
+      font-weight: 700;
+      color: #fff;
+      text-align: center;
+      padding: 0 50px;
+    }
   }
 
-  .main .brief{
-    margin-top: 1rem;
-    font-size: 1.5rem;
-    font-weight: 700;
-    color: #fff;
-    text-align: center;
-    padding: 0 60px;
-  }
+  
 
   .main .about-me{
     background-color:#ff8177;
     background-image: linear-gradient(to right, #DB0188 0%,#7201DC 0%, #b721ff 21%,  52%, #b721ff 50%, #21d4fd 100%);
     background-size: 100%;
     margin-bottom: 5rem;
-    margin-top: 5rem;
+    margin-top: 0.5rem;
     font-size: 5rem;
     -webkit-background-clip: text;
     -moz-background-clip: text ;
