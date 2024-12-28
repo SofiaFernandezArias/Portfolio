@@ -188,7 +188,7 @@
     
   }
   .life:nth-child(8) {
-    --art-url:url('3d art images/well\ unfinished.jpg');
+    --art-url:url('life images/fer\ life.jpg');
     
   }
 
@@ -340,6 +340,8 @@
   .extra:hover .description{
     opacity: 1;
   }
+ /* =-=-=-=-=-=-=-=-=-= Bonus =-=-=-=-=-=-=-=-=-= */
+
 
   /* POP UP */
 
