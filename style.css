@@ -397,7 +397,7 @@ fa-gem{
     background-image: linear-gradient(to right, #DB0188 0%,#7201DC 0%, #b721ff 21%,  52%, #b721ff 50%, #21d4fd 100%);
     background-size: 100%;
     margin-bottom: 5rem;
-    margin-top: 5rem;
+    margin-top: 0.5rem;
     font-size: 5rem;
     -webkit-background-clip: text;
     -moz-background-clip: text ;

@@ -165,7 +165,7 @@
     
   }
   .life:nth-child(2) {
-    --art-url: url('life images/greek life drawing.jpg');
+    --art-url: url('life images/crouched\ boy.jpg');
   }
   .life:nth-child(3) {
     --art-url: url('life images/sat life drawing.jpg');
@@ -184,7 +184,7 @@
     
   }
   .life:nth-child(7) {
-    --art-url: url('life images/blue\ life.jpg');
+    --art-url: url('life images/shower\ guy.jpg');
     
   }
   .life:nth-child(8) {
