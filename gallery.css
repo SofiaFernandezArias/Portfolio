@@ -161,14 +161,14 @@
   }
 
   .life:nth-child(1) {
-    --art-url: url('life images/back life drawing.jpg');
+    --art-url: url('life images/1mins.jpg');
     
   }
   .life:nth-child(2) {
     --art-url: url('life images/crouched\ boy.jpg');
   }
   .life:nth-child(3) {
-    --art-url: url('life images/sat life drawing.jpg');
+    --art-url: url('life images/fer\ life.jpg');
     
   }
   .life:nth-child(4) {
@@ -176,7 +176,7 @@
     
   }
   .life:nth-child(5) {
-    --art-url: url('life images/life\ man.jpg');
+    --art-url: url('life images/5mins.jpg');
     
   }
   .life:nth-child(6) {
@@ -188,9 +188,30 @@
     
   }
   .life:nth-child(8) {
-    --art-url:url('life images/fer\ life.jpg');
+    --art-url:url('life images/sat\ life\ drawing.jpg');
     
   }
+.life:nth-child(9) {
+  --art-url:url('life images/phil\ 10min.jpg');
+  
+}
+.life:nth-child(10) {
+  --art-url:url('life images/back\ life\ drawing.jpg');
+  
+}
+.life:nth-child(11) {
+  --art-url:url('life images/life\ man.jpg');
+  
+}
+.life:nth-child(12) {
+  --art-url:url('life images/15mins.jpg');
+  
+}
+
+  
+
+  
+
 
 .life .description{
     opacity: 0;
